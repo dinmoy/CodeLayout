@@ -7,5 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="hotpink">#F80F87</color>
+    <color name="hotpink">#C580E3</color>
+    <color name="btn1">#87818A</color>
+    <color name="btn2">#17F80F</color>
+    <color name="btn3">#E4097A</color>
+    <color name="btn4">#FFFB07</color>
+
 </resources>
